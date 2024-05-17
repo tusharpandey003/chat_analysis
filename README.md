@@ -21,18 +21,18 @@ How It Works
 Upload Your Chat Data: Simply upload your WhatsApp chat export (in text format) to the app.
 Explore the Dashboard: Navigate through the different sections to explore insights.
 
-Installation
+Installation:
 Clone this repository to your local machine.
-Install the required Python packages using
+Install the required Python packages using:
 
 pip install -r requirements.txt.
 
 
 
-Run the Streamlit app using:
+## Run the Streamlit app using:
 
 
-streamlit run app.py.
+streamlit run app.py
 
 
 Contribution
