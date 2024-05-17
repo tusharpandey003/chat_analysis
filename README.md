@@ -1,4 +1,4 @@
-# WhatsApp Chat Analysis with Streamlit App
+# Chat Analysis with Streamlit App
 Overview
 The WhatsApp Chat Analysis repository hosts a powerful and user-friendly Streamlit application designed to analyze and visualize WhatsApp group chat data.
 Whether you’re curious about your group’s activity patterns, individual user contributions, or insights derived from timestamps, this app provides a comprehensive toolkit for extracting valuable information from your chat history.
@@ -23,11 +23,22 @@ Explore the Dashboard: Navigate through the different sections to explore insigh
 
 Installation
 Clone this repository to your local machine.
-Install the required Python packages using pip install -r requirements.txt.
-Run the Streamlit app using streamlit run app.py.
+Install the required Python packages using
+
+pip install -r requirements.txt.
+
+
+
+Run the Streamlit app using:
+
+
+streamlit run app.py.
 
 
 Contribution
+
+
+
 Feel free to contribute by adding new features, improving visualizations, or enhancing the app’s functionality. Pull requests are welcome!
 
 License
